@@ -1,0 +1,4 @@
+"""
+Smart Recruiter Tests
+=====================
+"""
