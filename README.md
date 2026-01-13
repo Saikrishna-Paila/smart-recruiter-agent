@@ -220,9 +220,36 @@
 <br><sub>Database</sub>
 </td>
 <td align="center" width="120">
-<img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="48" height="48" alt="Groq" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" width="80" alt="Groq" />
 <br><strong>Groq</strong>
 <br><sub>LLM Engine</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge" width="80" alt="CrewAI" />
+<br><strong>CrewAI</strong>
+<br><sub>Multi-Agent</sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+<br><sub>Styling</sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+<br><sub>Type Safety</sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
+<br><strong>Vite</strong>
+<br><sub>Build Tool</sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge" width="80" alt="Resend" />
+<br><strong>Resend</strong>
+<br><sub>Email API</sub>
 </td>
 </tr>
 </table>
