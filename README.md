@@ -37,6 +37,59 @@
   <img src="https://img.shields.io/badge/Project-4%20of%2012-blue.svg?style=flat-square" alt="Project 4"/>
 </p>
 
+<div align="center">
+
+### 🛠️ Built With
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<br /><b>Python</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" />
+<br /><b>FastAPI</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
+<br /><b>React</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" />
+<br /><b>PostgreSQL</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
+<br /><b>Groq</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/crewai/FF6B6B" width="48" height="48" alt="CrewAI" />
+<br /><b>CrewAI</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind" />
+<br /><b>Tailwind</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
+<br /><b>TypeScript</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="48" height="48" alt="Vite" />
+<br /><b>Vite</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/resend/000000" width="48" height="48" alt="Resend" />
+<br /><b>Resend</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## Overview
