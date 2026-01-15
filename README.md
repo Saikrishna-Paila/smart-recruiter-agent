@@ -44,45 +44,45 @@
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br /><b>Python</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
 <br /><b>FastAPI</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
 <br /><b>React</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
 <br /><b>PostgreSQL</b>
 </td>
 <td align="center" width="100">
-<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Groq" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Groq_logo.svg" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="CrewAI" />
+<img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/crewai_logo.png" width="48" height="48" alt="CrewAI" />
 <br /><b>CrewAI</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
 <br /><b>Tailwind</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
 <br /><b>TypeScript</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="48" height="48" alt="Vite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
 <br /><b>Vite</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/maildotru/168DE2" width="48" height="48" alt="Resend" />
+<img src="https://avatars.githubusercontent.com/u/98aboram80329749?s=200&v=4" width="48" height="48" alt="Resend" />
 <br /><b>Resend</b>
 </td>
 </tr>
