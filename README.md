@@ -60,13 +60,13 @@
 <br /><b>PostgreSQL</b>
 </td>
 <td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Groq_logo.svg" width="48" height="48" alt="Groq" />
+<img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/crewai_logo.png" width="48" height="48" alt="CrewAI" />
+<img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="48" height="48" alt="CrewAI" />
 <br /><b>CrewAI</b>
 </td>
 <td align="center" width="100">
@@ -82,7 +82,7 @@
 <br /><b>Vite</b>
 </td>
 <td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/98aboram80329749?s=200&v=4" width="48" height="48" alt="Resend" />
+<img src="https://avatars.githubusercontent.com/u/98297603?s=200&v=4" width="48" height="48" alt="Resend" />
 <br /><b>Resend</b>
 </td>
 </tr>
