@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/resume.png" alt="Smart Recruiter Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Smart Recruiter Logo" width="120"/>
 </p>
 
 <h1 align="center">Smart Recruiter Agent</h1>
