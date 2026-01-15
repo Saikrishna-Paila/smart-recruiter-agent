@@ -60,13 +60,13 @@
 <br /><b>PostgreSQL</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/groq/F55036" width="48" height="48" alt="Groq" />
+<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="Groq" />
 <br /><b>Groq</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/crewai/FF6B6B" width="48" height="48" alt="CrewAI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="CrewAI" />
 <br /><b>CrewAI</b>
 </td>
 <td align="center" width="100">
@@ -82,7 +82,7 @@
 <br /><b>Vite</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/resend/000000" width="48" height="48" alt="Resend" />
+<img src="https://cdn.simpleicons.org/maildotru/168DE2" width="48" height="48" alt="Resend" />
 <br /><b>Resend</b>
 </td>
 </tr>
@@ -249,63 +249,6 @@
 ---
 
 ## Tech Stack
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-<br><sub>3.10+</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-<br><strong>FastAPI</strong>
-<br><sub>Backend API</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-<br><sub>Frontend</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-<br><sub>Database</sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" width="80" alt="Groq" />
-<br><strong>Groq</strong>
-<br><sub>LLM Engine</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge" width="80" alt="CrewAI" />
-<br><strong>CrewAI</strong>
-<br><sub>Multi-Agent</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind</strong>
-<br><sub>Styling</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-<br><sub>Type Safety</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
-<br><strong>Vite</strong>
-<br><sub>Build Tool</sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge" width="80" alt="Resend" />
-<br><strong>Resend</strong>
-<br><sub>Email API</sub>
-</td>
-</tr>
-</table>
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
